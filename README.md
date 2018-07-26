@@ -21,9 +21,11 @@ python client.py
 - Tabs for individual function: Home page or chat room
 - Chat room tab disabled until connection setup
 ### Home tab
-- 
--
+- Foolproof on connection/disconnection button: name column required, prevent repeat connecting/disconnecting
 ### Chat Room tab
--
--
+- enter a line can be done by either push GUI button or press keyboard enter
+- message column always scroll down to the newest message
+- private message show to both sender and receiver
+- combobox and room attendance list are updated real-time at receiving server broadcat
+- Expanding the window, message column is preferd for space increase
 
