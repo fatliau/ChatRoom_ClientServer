@@ -27,5 +27,5 @@ python client.py
 - message column always scroll down to the newest message
 - private message show to both sender and receiver
 - combobox and room attendance list are updated real-time at receiving server broadcat
-- Expanding the window, message column is preferd for space increase
+- window expanding space is preferd for message column
 
