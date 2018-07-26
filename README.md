@@ -26,6 +26,6 @@ python client.py
 - enter a line can be done by either push GUI button or press keyboard enter
 - message column always scroll down to the newest message
 - private message show to both sender and receiver
-- combobox and room attendance list are updated real-time at receiving server broadcat
+- rael-time update for combobox and attendance list at receiving server broadcat
 - window expanding space is preferd for message column
 
