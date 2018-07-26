@@ -30,5 +30,6 @@ python client.py
 - message column always scroll down to the newest message
 - private message shows onto both sender and receiver, with color
 - rael-time update for combobox and attendance list at receiving server broadcat
+- once the receiver left before the private message sent, dispaly "Not Delivered"
 - window expanding space is preferd for message column
 
