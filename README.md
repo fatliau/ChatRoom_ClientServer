@@ -22,6 +22,7 @@ python client.py
 - chat room tab disabled until connection setup
 ### Home tab
 - foolproof on connection/disconnection button: name column required, prevent repeat connecting/disconnecting
+- unlimited remaking coonection
 ### Chat Room tab
 - enter a line can be done by either push GUI button or press keyboard enter
 - message column always scroll down to the newest message
