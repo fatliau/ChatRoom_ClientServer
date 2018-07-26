@@ -26,7 +26,7 @@ python client.py
 ### Chat Room tab
 - message sending by either push GUI button or press keyboard enter
 - clear the LineEdit widget after each message sent
-- real-time message display
+- real-time received message display
 - message column always scroll down to the newest message
 - private message shows onto both sender and receiver, with color
 - rael-time update for combobox and attendance list at receiving server broadcat
