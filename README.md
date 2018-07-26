@@ -25,7 +25,7 @@ python client.py
 - unlimited remaking coonection
 ### Chat Room tab
 - message sending by either push GUI button or press keyboard enter
-- clear the LineEdit widget after each entering
+- clear the LineEdit widget after each message sent
 - real-time message display
 - message column always scroll down to the newest message
 - private message shows onto both sender and receiver, with color
