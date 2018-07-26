@@ -25,6 +25,7 @@ python client.py
 - unlimited remaking coonection
 ### Chat Room tab
 - enter a line can be done by either push GUI button or press keyboard enter
+- clear the LineEdit widget after each entering
 - message column always scroll down to the newest message
 - private message show to both sender and receiver
 - rael-time update for combobox and attendance list at receiving server broadcat
