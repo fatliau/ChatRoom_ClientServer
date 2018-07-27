@@ -22,6 +22,8 @@ python chatUI_v20.py
 ### Home tab
 - foolproof on connection/disconnection button: name column required, prevent repeat connecting/disconnecting
 - unlimited remaking coonection
+- unvalid port or unvalid IP, set to default IP 127.0.0.1 port 33002
+- refused connection, exception deal with it
 ### Chat Room tab
 - message sending by either push GUI button or press keyboard enter
 - clear the LineEdit widget after each message sent
