@@ -37,7 +37,7 @@ python chatUI_v22.py
 ![HomePage](pics/Home1.png) 
 ![HomePage](pics/Home2.png) 
 ![HomePage](pics/Home3.png)
-![HomePage](pics/Home4.png)
 ![ChatRoom](pics/Chat1.png)
 ![ChatRoom](pics/Chat2.png)
 ![ChatRoom](pics/Chat3.png)
+![HomePage](pics/Home4.png)
