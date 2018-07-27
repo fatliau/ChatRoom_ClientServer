@@ -7,12 +7,11 @@
 ## Environment Requirement
 - Python 3.6
 - PyQt5
-
-## Run the Server
+### Run the Server
 ```
 python server.py --host 127.0.0.1 --port 33002
 ```
-## Run the Client
+### Run the Client
 ```
 python chatUI_v20.py
 ```
