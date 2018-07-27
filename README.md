@@ -11,7 +11,7 @@
 ```
 python server.py --host 127.0.0.1 --port 33002
 ```
-### Run the Client
+### Run the Client User Interface
 ```
 python chatUI_v21.py
 ```
