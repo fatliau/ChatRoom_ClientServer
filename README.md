@@ -31,7 +31,7 @@ python chatUI_v20.py
 - message column always scroll down to the newest message
 - private message display on both sender and receiver, with color
 - real-time updating of combobox and attendance list at receiving server broadcast
-- once the receiver left before the private message sent, dispaly "Not Delivered"
+- once the receiver left before the private message sent, dispaly "Private message not delivered"
 - window expanding space is preferd for message column
 - EMOJI, that is what chat room ask for
 
