@@ -1,9 +1,7 @@
 # Client User Interface for Chat Server
 
 ## Project Information
-
-
-
+Implement an user interface for the chat server. This GUI has IP, port and name input line, and able to send, receive, and display message according to the server protocol of string format.
 ## Environment Requirement
 - Python 3.6
 - PyQt5
