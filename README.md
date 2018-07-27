@@ -13,12 +13,13 @@ python server.py --host 127.0.0.1 --port 33002
 ```
 ### Run the Client
 ```
-python chatUI_v20.py
+python chatUI_v21.py
 ```
 ## Features
 ### General Design
 - tabs for individual function: Home page or chat room
 - chat room tab disabled until connection setup
+- messagebox prompt to confirm exit, and disconnect before exit
 ### Home tab
 - foolproof on connection/disconnection button: name column required, prevent repeat connecting/disconnecting
 - unlimited remaking coonection
