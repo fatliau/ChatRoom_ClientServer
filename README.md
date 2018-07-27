@@ -31,6 +31,7 @@ python chatUI_v20.py
 - real-time updating of combobox and attendance list at receiving server broadcast
 - once the receiver left before the private message sent, dispaly "Not Delivered"
 - window expanding space is preferd for message column
+- EMOJI, that is what chat room ask for
 
 ## Screenshots
 ![HomePage](HomePage.png)
