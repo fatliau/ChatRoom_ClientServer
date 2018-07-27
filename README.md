@@ -37,10 +37,10 @@ python chatUI_v21.py
 - EMOJI, that is what chat room ask for
 
 ## Screenshots
-![HomePage](pics/Home1.png) ![ChatRoom](pics/Chat1.png)
-![HomePage](pics/Home2.png) ![ChatRoom](pics/Chat2.png)
+![HomePage](pics/Home1.png) 
+![HomePage](pics/Home2.png) 
 ![HomePage](pics/Home3.png)
 ![HomePage](pics/Home4.png)
-
-
+![ChatRoom](pics/Chat1.png)
+![ChatRoom](pics/Chat2.png)
 ![ChatRoom](pics/Chat3.png)
