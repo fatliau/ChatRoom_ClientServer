@@ -1,7 +1,7 @@
 # Client User Interface for Chat Server
 
 ## Project Information
-Implement an user interface for the chat server. This GUI has IP, port and name input line, and able to send, receive, and display message according to the server protocol of string format.
+Implement an user interface for the chat server. This GUI has IP, port and name input line, and able to broadcast, privatly send, receive, and display messages according to the server protocol of string format.
 ## Environment Requirement
 - Python 3.6
 - PyQt5
@@ -33,7 +33,6 @@ python chatUI_v21.py
 - once the receiver left before the private message sent, dispaly "Private message not delivered"
 - window expanding space is preferd for message column
 - EMOJI, that is what chat room ask for
-
 ## Screenshots
 ![HomePage](pics/Home1.png) 
 ![HomePage](pics/Home2.png) 
